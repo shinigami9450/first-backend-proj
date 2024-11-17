@@ -1,1 +1,2 @@
 print('aman')
+print('singh')
